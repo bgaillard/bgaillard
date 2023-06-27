@@ -14,3 +14,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Cloud & Cloud Native
+
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
+![Helm Badge](https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=fff&style=flat)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=fff&style=flat)
+
+#### Observability
+
+![Elasticsearch Badge](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=flat)
+![OpenSearch Badge](https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=fff&style=flat)
+![Prometheus Badge](https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=fff&style=flat)
+![Grafana Badge](https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff&style=flat)
+![Datadog Badge](https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=fff&style=flat)
+![Sentry Badge](https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=fff&style=flat)
+
+#### Security
+
+![Vault Badge](https://img.shields.io/badge/Vault-000?logo=vault&logoColor=fff&style=flat)
+
+#### Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+![PHP Badge](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=fff&style=flat)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=cplusplus&logoColor=fff&style=flat)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
+![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
