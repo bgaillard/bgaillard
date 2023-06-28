@@ -26,7 +26,8 @@ Here are some ideas to get you started:
 ## 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/baptistegaillard/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
+<a href="https://stackoverflow.com/users/1387674/baptiste-gaillard">![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)</a>
+<a href="https://twitter.com/baptigaillard)">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
 ## :trophy: Certifications
 
@@ -37,7 +38,7 @@ Here are some ideas to get you started:
 ![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
 ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
-## Badges
+## :mortar_board: Badges
 
 Stuffs I worked with.
 
