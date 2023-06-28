@@ -6,7 +6,7 @@ My name is Baptiste Gaillard, i'm working in software development, architecture,
 
 I'm used to wear different hats but I currently have a particular interest in SRE, Ops*, platform engineering, cloud and cloud native domains.
 
-Begin a perfectionist I always try to crack problems using the best practices available and state of the art stuffs :wink:.
+Being a perfectionist I always try to crack problems using the best practices available and state of the art stuffs :wink:.
 
 <!--
 **bgaillard/bgaillard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
