@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 <a href="https://stackoverflow.com/users/1387674/baptiste-gaillard">![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)</a>
 <a href="https://twitter.com/baptigaillard)">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
+## Currently reading
+
+<a href="https://www.oreilly.com/library/view/chaos-engineering/9781492043850/">![Chaos Engineering](https://m.media-amazon.com/images/I/91bex9Fo9uL._AC_UF350,350_QL50_.jpg)</a>
+
 ## :trophy: Certifications
 
 <a href="https://www.credly.com/badges/b9787904-d50d-4cc5-b158-5e409447fb90/public_url">![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)</a>
