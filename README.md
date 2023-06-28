@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/df8995ee-30e0-401b-a411-12a2939f08d7/public_url">![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)</a>
 <a href="https://www.credly.com/badges/4cb94c31-54e9-4116-a0d2-7cf06ae62448/public_url">![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)</a>
 
-## :mortar_board: Badges
+## :mortar_board: Techs
 
 Stuffs I worked with.
 
