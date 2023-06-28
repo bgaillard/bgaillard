@@ -1,4 +1,4 @@
-### Hi there 👋
+# 👏 Hi there
 
 ![](https://komarev.com/ghpvc/?username=bgaillard)
 
@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Certifications
+## 📫 How to reach me
+
+<a href="https://www.linkedin.com/in/baptistegaillard/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+
+## :trophy: Certifications
 
 ![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)
 ![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)
@@ -32,11 +37,11 @@ Here are some ideas to get you started:
 ![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
 ![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
 
-### Badges
+## Badges
 
 Stuffs I worked with.
 
-#### Cloud & Cloud Native
+### Cloud & Cloud Native
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?logo=amazonaws&logoColor=fff&style=flat)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=flat)
@@ -47,7 +52,7 @@ Stuffs I worked with.
 ![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=fff&style=flat)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff&style=flat)
 
-#### Observability
+### Observability
 
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=fff&style=flat)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=fff&style=flat)
@@ -59,22 +64,22 @@ Stuffs I worked with.
 ![Telegraph](https://img.shields.io/badge/Telegraph-FAFAFA?logo=telegraph&logoColor=000&style=flat)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?logo=influxdb&logoColor=fff&style=flat)
 
-#### Performances
+### Performances
 
 ![Apache JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128?logo=apachejmeter&logoColor=fff&style=flat)
 
-#### Security
+### Security
 
 ![Vault](https://img.shields.io/badge/Vault-000?logo=vault&logoColor=fff&style=flat)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?logo=bitwarden&logoColor=fff&style=flat)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?logo=okta&logoColor=fff&style=flat)
 ![OpenVPN](https://img.shields.io/badge/OpenVPN-EA7E20?logo=openvpn&logoColor=fff&style=flat)
 
-#### Quality
+### Quality
 
 ![Sonar](https://img.shields.io/badge/Sonar-FD3456?logo=sonar&logoColor=fff&style=flat)
 
-#### CI & CD
+### CI & CD
 
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff&style=flat)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=fff&style=flat)
@@ -82,7 +87,7 @@ Stuffs I worked with.
 ![Travis CI](https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=fff&style=flat)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?logo=bitbucket&logoColor=fff&style=flat)
 
-#### Languages
+### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=fff&style=flat)
@@ -94,7 +99,7 @@ Stuffs I worked with.
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat)
 ![C Sharp](https://img.shields.io/badge/C%20Sharp-239120?logo=csharp&logoColor=fff&style=flat)
 
-#### Frameworks
+### Frameworks
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=fff&style=flat)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=fff&style=flat)
@@ -104,7 +109,7 @@ Stuffs I worked with.
 ![Zend](https://img.shields.io/badge/Zend%20Framework-68B604?logo=zendframework&logoColor=fff&style=flat)
 ![Symfony](https://img.shields.io/badge/Symfony-000?logo=symfony&logoColor=fff&style=flat)
 
-#### Web
+### Web
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=flat)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
@@ -112,7 +117,7 @@ Stuffs I worked with.
 ![Less](https://img.shields.io/badge/Less-1D365D?logo=less&logoColor=fff&style=flat)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff&style=flat)
 
-#### DBs
+### DBs
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
@@ -122,7 +127,7 @@ Stuffs I worked with.
 ![Apache Solr](https://img.shields.io/badge/Apache%20Solr-D9411E?logo=apachesolr&logoColor=fff&style=flat)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff&style=flat)
 
-#### Dependency managers & builders
+### Dependency managers & builders
 
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?logo=serverless&logoColor=fff&style=flat)
 ![Poetry](https://img.shields.io/badge/Poetry-60A5FA?logo=poetry&logoColor=fff&style=flat)
@@ -134,7 +139,7 @@ Stuffs I worked with.
 ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?logo=apacheant&logoColor=fff&style=flat)
 ![Composer](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)
 
-#### Operating Systems
+### Operating Systems
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 ![CentOS](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=fff&style=flat)
@@ -143,7 +148,7 @@ Stuffs I worked with.
 ![MX Linux](https://img.shields.io/badge/MX%20Linux-000?logo=mxlinux&logoColor=fff&style=flat)
 ![Gentoo](https://img.shields.io/badge/Gentoo-54487A?logo=gentoo&logoColor=fff&style=flat)
 
-#### Tools
+### Tools
 
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff&style=flat)
 ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
