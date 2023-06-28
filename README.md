@@ -31,12 +31,12 @@ Here are some ideas to get you started:
 
 ## :trophy: Certifications
 
-![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)
-![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)
-![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)
-![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)
-![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)
-![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)
+<a href="https://www.credly.com/badges/b9787904-d50d-4cc5-b158-5e409447fb90/public_url">![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)</a>
+<a href="https://www.credly.com/badges/1b31851a-054b-4135-802e-60f566cfc391/public_url">![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)</a>
+<a href="https://www.credly.com/badges/c2260f48-3904-4746-9add-08f040839baa/public_url">![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)</a>
+<a href="https://www.credly.com/badges/158ceec7-d2c6-49e0-b496-ebe1c07914cc/public_url">![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)</a>
+<a href="https://www.credly.com/badges/df8995ee-30e0-401b-a411-12a2939f08d7/public_url">![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)</a>
+<a href="https://www.credly.com/badges/4cb94c31-54e9-4116-a0d2-7cf06ae62448/public_url">![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)</a>
 
 ## :mortar_board: Badges
 
