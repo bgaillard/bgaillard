@@ -4,7 +4,7 @@
 
 My name is Baptiste Gaillard, i'm working in software development, architecture, IT, cloud and infrastructure since several years now. 
 
-I'm used to wear different hats but I currently have a particular interest in SRE, Ops*, platform engineering, cloud and cloud native domains.
+I'm used to wear different hats but I currently have a particular interest in SRE, *Ops, platform engineering, cloud and cloud native domains.
 
 Being a perfectionist I always try to crack problems using the best practices available and state of the art stuffs :wink:.
 
