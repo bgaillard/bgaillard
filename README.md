@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ## Currently reading
 
+<a href="https://www.oreilly.com/library/view/the-staff-engineers/9781098118723/"><img src="https://m.media-amazon.com/images/I/813cTBVF1hL._AC_UF1000,1000_QL80_.jpg" width="150"></img></a>
 <a href="https://www.oreilly.com/library/view/chaos-engineering/9781492043850/"><img src="https://m.media-amazon.com/images/I/91bex9Fo9uL._AC_UF350,350_QL50_.jpg" width="150"></img></a>
 <a href="https://www.amazon.com/Learning-eBPF-Programming-Observability-Networking/dp/1098135121"/><img src="https://m.media-amazon.com/images/I/81dVucNYnEL._AC_UF1000,1000_QL80_.jpg" width="150"></img></a>
 
