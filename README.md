@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 ## :trophy: Certifications
 
+<a href="https://www.credly.com/badges/f01e43ed-0765-4abf-85fd-d8cdd0d47289/public_url">![PCA: Prometheus Certified Associate](https://images.credly.com/size/110x110/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png)</a>
 <a href="https://www.credly.com/badges/b9787904-d50d-4cc5-b158-5e409447fb90/public_url">![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)</a>
 <a href="https://www.credly.com/badges/1b31851a-054b-4135-802e-60f566cfc391/public_url">![CKAD: Certified Kubernetes Application Developer](https://images.credly.com/size/110x110/images/f88d800c-5261-45c6-9515-0458e31c3e16/ckad_from_cncfsite.png)</a>
 <a href="https://www.credly.com/badges/c2260f48-3904-4746-9add-08f040839baa/public_url">![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)</a>
