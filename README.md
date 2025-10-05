@@ -23,13 +23,32 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 📫 How to reach me
+## ✍️ Blog
+
+**[Baptiste Gaillard's IT blog](https://bgaillard.github.io)**
+
+> Expert insights on Platform Engineering, DevOps, Cloud, SRE, and software architecture. Practical advice for modern IT challenges.
+
+## 📫 Reach me
 
 <a href="https://www.linkedin.com/in/baptistegaillard/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://stackoverflow.com/users/1387674/baptiste-gaillard">![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)</a>
 <a href="https://twitter.com/baptigaillard)">![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 
-## Currently reading
+## :trophy: Certifications
+
+<a href="https://www.credly.com/earner/earned/badge/14b1e6ee-4c53-41ce-a0e2-650aaa227f38">![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)</a>
+<a href="https://www.credly.com/badges/f01e43ed-0765-4abf-85fd-d8cdd0d47289/public_url">![PCA: Prometheus Certified Associate](https://images.credly.com/size/110x110/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png)</a>
+<a href="https://www.credly.com/badges/b9787904-d50d-4cc5-b158-5e409447fb90/public_url">![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)</a>
+<a href="https://www.credly.com/badges/1b31851a-054b-4135-802e-60f566cfc391/public_url">
+  <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="110px" title="CKAD: Certified Kubernetes Application Developer" />
+</a>
+<a href="https://www.credly.com/badges/c2260f48-3904-4746-9add-08f040839baa/public_url">![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)</a>
+<a href="https://www.credly.com/badges/158ceec7-d2c6-49e0-b496-ebe1c07914cc/public_url">![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)</a>
+<a href="https://www.credly.com/badges/df8995ee-30e0-401b-a411-12a2939f08d7/public_url">![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)</a>
+<a href="https://www.credly.com/badges/4cb94c31-54e9-4116-a0d2-7cf06ae62448/public_url">![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)</a>
+
+## 📖 Currently reading
 
 <a href="https://a.co/d/bswGlX0">
     <img src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SY425_.jpg" width="150"></img>
@@ -44,19 +63,6 @@ Here are some ideas to get you started:
 </a>
 
 To see more about my readings, check out my [bookshelf](/bookshelf.md).
-
-## :trophy: Certifications
-
-<a href="https://www.credly.com/earner/earned/badge/14b1e6ee-4c53-41ce-a0e2-650aaa227f38">![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/110x110/images/85b9cfc4-257a-4742-878c-4f7ab4a2631b/image.png)</a>
-<a href="https://www.credly.com/badges/f01e43ed-0765-4abf-85fd-d8cdd0d47289/public_url">![PCA: Prometheus Certified Associate](https://images.credly.com/size/110x110/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png)</a>
-<a href="https://www.credly.com/badges/b9787904-d50d-4cc5-b158-5e409447fb90/public_url">![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)</a>
-<a href="https://www.credly.com/badges/1b31851a-054b-4135-802e-60f566cfc391/public_url">
-  <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="110px" title="CKAD: Certified Kubernetes Application Developer" />
-</a>
-<a href="https://www.credly.com/badges/c2260f48-3904-4746-9add-08f040839baa/public_url">![AWS Certified Security – Specialty](https://images.credly.com/size/110x110/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png)</a>
-<a href="https://www.credly.com/badges/158ceec7-d2c6-49e0-b496-ebe1c07914cc/public_url">![AWS Certified SysOps Administrator – Associate](https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png)</a>
-<a href="https://www.credly.com/badges/df8995ee-30e0-401b-a411-12a2939f08d7/public_url">![AWS Certified Developer – Associate](https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png)</a>
-<a href="https://www.credly.com/badges/4cb94c31-54e9-4116-a0d2-7cf06ae62448/public_url">![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)</a>
 
 ## :mortar_board: Techs
 
