@@ -50,7 +50,7 @@ Here are some ideas to get you started:
     </td>
     <td align="center" valign="top" width=192>
       <a href="https://www.credly.com/badges/f01e43ed-0765-4abf-85fd-d8cdd0d47289/public_url">
-        <img src="https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" />
+        <img src="https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width=128 />
       </a>
     </td>
     <td align="center" valign="top" width=192>
