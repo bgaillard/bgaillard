@@ -53,21 +53,90 @@ This page lists books that I have read and recommend. I have categorized them by
 
 ## Architecture & System Design
 
-<a href="https://a.co/d/bswGlX0">
-    <img alt="System Design Interview - An Insider's Guide" 
-         src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SY425_.jpg" 
-         width="150"></img>
-</a>
-&nbsp;&nbsp;
-<a href="https://a.co/d/5uKa7Nv">
-    <img alt="REST Web Services Cookbook - Solutions for Improving Scalability and Simplicity"
-         src="https://m.media-amazon.com/images/I/71k7zLwzFZL._SY342_.jpg" 
-        width="150"></img>
-</a>
+<table>
+  <tr>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/bswGlX0">
+        <img alt="System Design Interview - An Insider's Guide" 
+             src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SY425_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/gNN2xTw">
+        <img alt="Scalability Rules: 50 Principles for Scaling Web Sites (English Edition) "
+             src="https://m.media-amazon.com/images/I/61vguKPiM+L._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/5uKa7Nv">
+        <img alt="REST Web Services Cookbook - Solutions for Improving Scalability and Simplicity"
+             src="https://m.media-amazon.com/images/I/71k7zLwzFZL._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/fC6jUcf">
+        <img alt="Domain-Specific Languages (Addison-Wesley Signature Series (Fowler)) (English Edition)"
+             src="https://m.media-amazon.com/images/I/81+HKEiABuL._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/hMnVV67">
+        <img alt="Implementing SOA: Total Architecture in Practice (English Edition)"
+             src="https://m.media-amazon.com/images/I/51epE9JkfGL._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Programming
 
 ## Infrastructure & Systems administration
+
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/9CZZnY8">
+        <img alt="UNIX and Linux System Administration Handbook (English Edition)"
+             src="https://m.media-amazon.com/images/I/81oBWtLNkAS._SY385_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/7SeWpF6">
+        <img alt="The Kubernetes Book (English Edition)"
+             src="https://m.media-amazon.com/images/I/61q7D5vUvGL._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/6Pbmnao">
+        <img alt="Kubernetes Networking, Decoded: Simplify Your Path to Understanding Pods, Services, and CNI with Essential, Time-Saving Insights (Kubernetes Networking ... Native Networking Series) (English Edition)"
+             src="https://m.media-amazon.com/images/I/71IzT0UWSOL._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/6vsbdJs">
+        <img alt="Certified Kubernetes Application Developer: In-depth Guidance and Practice"
+             src="https://m.media-amazon.com/images/I/81x2M17sU-L._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/i8ovO9A">
+        <img alt="Mastering Kubernetes: Level up your container orchestration skills with Kubernetes to build, run, secure, and observe large-scale distributed apps, 3rd Edition"
+             src="https://m.media-amazon.com/images/I/71aPyzTqhgL._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Databases
 
