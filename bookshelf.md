@@ -93,10 +93,23 @@ This page lists books that I have read and recommend. I have categorized them by
   </tr>
 </table>
 
+
 ## Programming
 
-## Infrastructure & Systems administration
+<table>
+  <tr>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/6L9IxfR">
+        <img alt="Treading on Python Volume 2: Intermediate Python"
+             src="https://m.media-amazon.com/images/I/61IChPWnuqL._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+  </tr>
+</table>
 
+
+## Infrastructure & Systems administration
 
 <table>
   <tr>
@@ -135,8 +148,16 @@ This page lists books that I have read and recommend. I have categorized them by
              width="150"></img>
       </a>
     </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/hrMWW8N">
+        <img alt="Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security"
+             src="https://m.media-amazon.com/images/I/81dVucNYnEL._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 ## Databases
 
@@ -145,7 +166,28 @@ This page lists books that I have read and recommend. I have categorized them by
     <td align="center" valign="middle" width=192>
       <a href="https://a.co/d/9spWPvL">
         <img alt="High Performance MySQL - Optimization, Backups, and Replication"
-             src="https://m.media-amazon.com/images/I/91QQw8ekOJL._SY342_.jpg" 
+             src="https://m.media-amazon.com/images/I/91QQw8ekOJL._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/3RZApu7">
+        <img alt="Refactoring Databases: Evolutionary Database Design (Addison-Wesley Signature Series (Fowler)) (English Edition)"
+             src="https://m.media-amazon.com/images/I/51wZ4MfWo8L._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/8NIt4Jo">
+        <img alt="Seven Databases in Seven Weeks"
+             src="https://m.media-amazon.com/images/I/81x-u6F2zNL._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/3IIUO23">
+        <img alt="NoSQL Distilled: A Brief Guide to the Emerging World of Polyglot Persistence (English Edition)"
+             src="https://m.media-amazon.com/images/I/71XNJs+LQ7L._SY342_.jpg"
              width="150"></img>
       </a>
     </td>
@@ -168,6 +210,13 @@ This page lists books that I have read and recommend. I have categorized them by
       <a href="https://a.co/d/5BPvNIw"/>
         <img alt="Successful Tech Lead - How to be a Successful Tech Lead"
              src="https://m.media-amazon.com/images/I/61qQGsk8J9L._SY425_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/1QnGAPO"/>
+        <img alt="Break into Tech: Build an Epic Tech Resume, Interview Plan, and Career — No Coding Required! (English Edition)"
+             src="https://m.media-amazon.com/images/I/71N6w3g-fxL._SY342_.jpg"
              width="150"></img>
       </a>
     </td>
