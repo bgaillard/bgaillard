@@ -41,6 +41,8 @@ This page lists books that I have read and recommend. I have categorized them by
              width="150"></img>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" width=192>
       <a href="https://a.co/d/cRFwI8t"/>
         <img alt="SRE Interview Masterclass - Preparing for System Design and Behavioral Interviews"
@@ -148,6 +150,8 @@ This page lists books that I have read and recommend. I have categorized them by
              width="150"></img>
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" width=192>
       <a href="https://amzn.eu/d/hrMWW8N">
         <img alt="Learning eBPF: Programming the Linux Kernel for Enhanced Observability, Networking, and Security"
