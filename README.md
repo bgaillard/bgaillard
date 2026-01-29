@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## :trophy: Certifications
 
 <a href="https://www.credly.com/earner/earned/badge/14b1e6ee-4c53-41ce-a0e2-650aaa227f38">![HashiCorp Certified: Terraform Associate (003)](https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob)</a>
-<a href="https://www.credly.com/badges/f01e43ed-0765-4abf-85fd-d8cdd0d47289/public_url">![PCA: Prometheus Certified Associate](https://images.credly.com/size/110x110/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png)</a>
+<a href="https://www.credly.com/badges/f01e43ed-0765-4abf-85fd-d8cdd0d47289/public_url">![PCA: Prometheus Certified Associate](https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png)</a>
 <a href="https://www.credly.com/badges/b9787904-d50d-4cc5-b158-5e409447fb90/public_url">![HashiCorp Certified: Vault Associate (002)](https://images.credly.com/size/110x110/images/fd1bf1cf-dc60-4868-b3a3-9b93e8af763c/image.png)</a>
 <a href="https://www.credly.com/badges/1b31851a-054b-4135-802e-60f566cfc391/public_url">
   <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="110px" title="CKAD: Certified Kubernetes Application Developer" />
