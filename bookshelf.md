@@ -4,42 +4,52 @@ This page lists books that I have read and recommend. I have categorized them by
 
 ## SRE
 
-<a href="https://a.co/d/3CECwDu"/>
-    <img alt="Site Reliability Engineering - How Google Runs Production Systems" 
-         src="https://m.media-amazon.com/images/I/814nAGmpAGL._SY342_.jpg" 
-         width="150"></img>
-</a>
-&nbsp;&nbsp;
-<a href="https://a.co/d/gg5T9Nc"/>
-    <img alt="The Site Reliability Workbook - Practical Ways to Implement SRE" 
-         src="https://m.media-amazon.com/images/I/915+dyfxm0L._SY342_.jpg" 
-         width="150"></img>
-</a>
-&nbsp;&nbsp;
-<a href="https://a.co/d/fzyylPq"/>
-    <img alt="Implementing Service Level Objectives - A Practical Guide to SLIs, SLOs, and Error Budgets"
-         src="https://m.media-amazon.com/images/I/91bW4csmp5L._SY342_.jpg" 
-         width="150"></img>
-</a>
-&nbsp;&nbsp;
-<a href="https://a.co/d/9AYBxQs"/>
-    <img alt="Prometheus Up & Running - Infrastructure and Application Performance Monitoring"
-         src="https://m.media-amazon.com/images/I/91t441aN6ML._SY342_.jpg" 
-         width="150"></img>
-</a>
-&nbsp;&nbsp;
-<a href="https://a.co/d/4UShs5K"/>
-    <img alt="Chaos Engineering - System Resiliency in Practice"
-         src="https://m.media-amazon.com/images/I/91dRNuYBe-L._SY342_.jpg" 
-         width="150"></img>
-</a>
-&nbsp;&nbsp;
-<a href="https://a.co/d/cRFwI8t"/>
-    <img alt="SRE Interview Masterclass - Preparing for System Design and Behavioral Interviews"
-         src="https://m.media-amazon.com/images/I/71DTyy-b+NL._SY342_.jpg" 
-         width="150"></img>
-</a>
-
+<table>
+  <tr>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/3CECwDu"/>
+        <img alt="Site Reliability Engineering - How Google Runs Production Systems" 
+             src="https://m.media-amazon.com/images/I/814nAGmpAGL._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/gg5T9Nc"/>
+        <img alt="The Site Reliability Workbook - Practical Ways to Implement SRE" 
+             src="https://m.media-amazon.com/images/I/915+dyfxm0L._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/fzyylPq"/>
+        <img alt="Implementing Service Level Objectives - A Practical Guide to SLIs, SLOs, and Error Budgets"
+             src="https://m.media-amazon.com/images/I/91bW4csmp5L._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/9AYBxQs"/>
+        <img alt="Prometheus Up & Running - Infrastructure and Application Performance Monitoring"
+             src="https://m.media-amazon.com/images/I/91t441aN6ML._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/4UShs5K"/>
+        <img alt="Chaos Engineering - System Resiliency in Practice"
+             src="https://m.media-amazon.com/images/I/91dRNuYBe-L._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/cRFwI8t"/>
+        <img alt="SRE Interview Masterclass - Preparing for System Design and Behavioral Interviews"
+             src="https://m.media-amazon.com/images/I/71DTyy-b+NL._SY342_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## Architecture & System Design
 
