@@ -85,17 +85,25 @@ Here are some ideas to get you started:
 
 ## 📖 Currently reading
 
-<a href="https://a.co/d/bswGlX0">
-    <img src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SY425_.jpg" width="150"></img>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.oreilly.com/library/view/chaos-engineering/9781492043850/">
-    <img src="https://m.media-amazon.com/images/I/91bex9Fo9uL._AC_UF350,350_QL50_.jpg" width="150"></img>
-</a>
-&nbsp;&nbsp;
-<a href="https://www.amazon.com/Learning-eBPF-Programming-Observability-Networking/dp/1098135121"/>
-    <img src="https://m.media-amazon.com/images/I/81dVucNYnEL._AC_UF1000,1000_QL80_.jpg" width="150"></img>
-</a>
+<table>
+  <tr>
+    <td align="center" valign="middle" width=192>
+      <a href="https://a.co/d/bswGlX0">
+          <img src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SY425_.jpg" width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://www.oreilly.com/library/view/chaos-engineering/9781492043850/">
+        <img src="https://m.media-amazon.com/images/I/91bex9Fo9uL._AC_UF350,350_QL50_.jpg" width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://www.amazon.com/Learning-eBPF-Programming-Observability-Networking/dp/1098135121"/>
+        <img src="https://m.media-amazon.com/images/I/81dVucNYnEL._AC_UF1000,1000_QL80_.jpg" width="150"></img>
+      </a>
+    </td>
+  </tr>
+</table>
 
 To see more about my readings, check out my [bookshelf](/bookshelf.md).
 
