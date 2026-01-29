@@ -68,17 +68,17 @@ Here are some ideas to get you started:
     </td>
     <td align="center" valign="top"  width=192>
       <a href="https://www.credly.com/badges/158ceec7-d2c6-49e0-b496-ebe1c07914cc/public_url">
-        <img src="https://images.credly.com/size/110x110/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" width=192 />
+        <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" />
       </a>
     </td>
     <td align="center" valign="top" width=192>
       <a href="https://www.credly.com/badges/df8995ee-30e0-401b-a411-12a2939f08d7/public_url">
-        <img src="https://images.credly.com/size/110x110/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" width=192 />
+        <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" />
       </a>
     </td>
     <td align="center" valign="top" width=192>
       <a href="https://www.credly.com/badges/4cb94c31-54e9-4116-a0d2-7cf06ae62448/public_url">
-        <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" width=192 />
+        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" />
       </a>
     </td>
   </tr>
