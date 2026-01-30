@@ -231,6 +231,20 @@ This page lists books that I have read and recommend. I have categorized them by
              width="150"></img>
       </a>
     </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/8sImJ9W"/>
+        <img alt="Successful Technology Consulting: How to Become a Top Dollar IT Consultant (IT Consulting Career Guide) (English Edition)"
+             src="https://m.media-amazon.com/images/I/71Iy2QuPX6L._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/3ifmeln"/>
+        <img alt="Consultant : se lancer, réussir et durer"
+             src="https://m.media-amazon.com/images/I/715OeFJFJ6L._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
   </tr>
 </table>
 
