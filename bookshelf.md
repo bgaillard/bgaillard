@@ -276,6 +276,43 @@ This page lists books that I have read and recommend. I have categorized them by
   </tr>
 </table>
 
+
+## CLI tools
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/8t3YaSL">
+        <img alt="Bash Pocket Reference: Help for Power Users and Sys Admins"
+             src="https://m.media-amazon.com/images/I/81U0YmdsNRL._SY385_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/5YlbX9X">
+        <img alt="Learning the bash Shell: Unix Shell Programming (In a Nutshell (O'Reilly)) (English Edition)"
+             src="https://m.media-amazon.com/images/I/91rB6r78YHL._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/fBPGbqZ">
+        <img alt="sed &amp; awk: UNIX Power Tools (Nutshell Handbooks) (English Edition)"
+             src="https://m.media-amazon.com/images/I/916OGXYyYVL._SY342_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/cmg5xgA">
+        <img alt="Grep Pocket Reference: A Quick Pocket Reference for a Utility Every UNIX User Needs"
+             src="https://m.media-amazon.com/images/I/81FnKOgb8UL._SY385_.jpg"
+             width="150"></img>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ## Focus and concentration
 
 <table>
