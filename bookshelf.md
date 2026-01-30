@@ -58,6 +58,13 @@ This page lists books that I have read and recommend. I have categorized them by
 <table>
   <tr>
     <td align="center" valign="middle" width=192>
+      <a href="https://amzn.eu/d/0Vgotx7">
+        <img alt="Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG" 
+             src="https://m.media-amazon.com/images/I/61i-EuRzq4L._SY385_.jpg" 
+             width="150"></img>
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
       <a href="https://a.co/d/bswGlX0">
         <img alt="System Design Interview - An Insider's Guide" 
              src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SY425_.jpg" 
