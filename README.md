@@ -40,7 +40,7 @@ Sorted by certification date in reverse chronological order (from most recent to
 <table>
   <tr>
     <td align="center" valign="middle" width=192>
-      <a href="https://www.credly.com/earner/earned/badge/14b1e6ee-4c53-41ce-a0e2-650aaa227f38">
+      <a href="https://www.credly.com/badges/d8b587e4-9963-431d-afc5-907ca6dcac20/public_url">
         <img src="https://images.credly.com/images/77d92dec-5c60-447b-8326-c592812f2483/blob" alt="Datadog Certified: Datadog Fundamentals" />
       </a>
     </td>
