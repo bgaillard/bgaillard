@@ -36,16 +36,22 @@ Here are some ideas to get you started:
 
 ## :trophy: Certifications
 
+Sorted by certification date in reverse chronological order (from most recent to least recent).
 <table>
   <tr>
     <td align="center" valign="middle" width=192>
       <a href="https://www.credly.com/earner/earned/badge/14b1e6ee-4c53-41ce-a0e2-650aaa227f38">
-        <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" />
+        <img src="https://images.credly.com/images/77d92dec-5c60-447b-8326-c592812f2483/blob" alt="Datadog Certified: Datadog Fundamentals" />
       </a>
     </td>
     <td align="center" valign="middle" width=192>
-      <a href="https://www.credly.com/badges/b9787904-d50d-4cc5-b158-5e409447fb90/public_url">
-        <img src="https://images.credly.com/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob" alt="HashiCorp Certified: Vault Associate (002)" />
+      <a href="https://www.credly.com/badges/4cb94c31-54e9-4116-a0d2-7cf06ae62448/public_url">
+        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" />
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
+      <a href="https://www.credly.com/earner/earned/badge/14b1e6ee-4c53-41ce-a0e2-650aaa227f38">
+        <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" />
       </a>
     </td>
     <td align="center" valign="middle" width=192>
@@ -53,13 +59,18 @@ Here are some ideas to get you started:
         <img src="https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width=128 />
       </a>
     </td>
+  </tr>
+  <tr>
+    <td align="center" valign="middle" width=192>
+      <a href="https://www.credly.com/badges/b9787904-d50d-4cc5-b158-5e409447fb90/public_url">
+        <img src="https://images.credly.com/images/d5bf51f3-18cd-4a7a-8031-e2e365ebb0ba/blob" alt="HashiCorp Certified: Vault Associate (002)" />
+      </a>
+    </td>
     <td align="center" valign="middle" width=192>
       <a href="https://www.credly.com/badges/1b31851a-054b-4135-802e-60f566cfc391/public_url">
         <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle"  width=192>
       <a href="https://www.credly.com/badges/c2260f48-3904-4746-9add-08f040839baa/public_url">
         <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty"
@@ -70,14 +81,11 @@ Here are some ideas to get you started:
         <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" width=192>
       <a href="https://www.credly.com/badges/df8995ee-30e0-401b-a411-12a2939f08d7/public_url">
         <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" alt="AWS Certified Developer – Associate" />
-      </a>
-    </td>
-    <td align="center" valign="middle" width=192>
-      <a href="https://www.credly.com/badges/4cb94c31-54e9-4116-a0d2-7cf06ae62448/public_url">
-        <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" />
       </a>
     </td>
   </tr>
