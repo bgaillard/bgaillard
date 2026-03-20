@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=bgaillard)
 
-My name is Baptiste Gaillard, i'm working in software development, architecture, IT, cloud and infrastructure since several years now. 
+My name is Baptiste Gaillard, i'm working in software development, architecture, IT, cloud and infrastructure since several years now.
 
 I'm used to wear different hats but I currently have a particular interest in SRE, *Ops, platform engineering, cloud and cloud native domains.
 
@@ -40,6 +40,11 @@ Sorted by certification date in reverse chronological order (from most recent to
 <table>
   <tr>
     <td align="center" valign="middle" width=192>
+      <a href="https://www.credly.com/badges/ed449eb3-5859-4dc3-b5df-ba02de2e8b45/public_url">
+        <img src="https://images.credly.com/images/1435c0bc-5a70-4618-a65f-b5da82d29fd2/blob" alt="Datadog Certified: APM & Distributed Tracing Fundamentals" />
+      </a>
+    </td>
+    <td align="center" valign="middle" width=192>
       <a href="https://www.credly.com/badges/b86221d9-a7ed-41ae-90fd-ea848b3be492/public_url">
         <img src="https://images.credly.com/images/28158c58-eb8c-4b0a-8fa1-d6b8306d09be/blob" alt="Datadog Certified: Log Management Fundamentals" />
       </a>
@@ -54,13 +59,13 @@ Sorted by certification date in reverse chronological order (from most recent to
         <img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Certified Solutions Architect – Associate" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle" width=192>
       <a href="https://www.credly.com/earner/earned/badge/14b1e6ee-4c53-41ce-a0e2-650aaa227f38">
         <img src="https://images.credly.com/size/340x340/images/0dc62494-dc94-469a-83af-e35309f27356/blob" alt="HashiCorp Certified: Terraform Associate (003)" />
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle" width=192>
       <a href="https://www.credly.com/badges/f01e43ed-0765-4abf-85fd-d8cdd0d47289/public_url">
         <img src="https://images.credly.com/images/c34436dc-1cfd-4125-a862-35f9c86ca17f/image.png" alt="PCA: Prometheus Certified Associate" width=128 />
@@ -76,13 +81,13 @@ Sorted by certification date in reverse chronological order (from most recent to
         <img src="https://images.credly.com/size/340x340/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" alt="CKAD: Certified Kubernetes Application Developer" />
       </a>
     </td>
+  </tr>
+  <tr>
     <td align="center" valign="middle"  width=192>
       <a href="https://www.credly.com/badges/c2260f48-3904-4746-9add-08f040839baa/public_url">
         <img src="https://images.credly.com/size/340x340/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" alt="AWS Certified Security – Specialty"
       </a>
     </td>
-  </tr>
-  <tr>
     <td align="center" valign="middle"  width=192>
       <a href="https://www.credly.com/badges/158ceec7-d2c6-49e0-b496-ebe1c07914cc/public_url">
         <img src="https://images.credly.com/size/340x340/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" alt="AWS Certified SysOps Administrator – Associate" />
@@ -101,18 +106,8 @@ Sorted by certification date in reverse chronological order (from most recent to
 <table>
   <tr>
     <td align="center" valign="middle" width=192>
-      <a href="https://a.co/d/bswGlX0">
-          <img src="https://m.media-amazon.com/images/I/51vZ6t5W4gL._SY425_.jpg" width="150"></img>
-      </a>
-    </td>
-    <td align="center" valign="middle" width=192>
-      <a href="https://www.oreilly.com/library/view/chaos-engineering/9781492043850/">
-        <img src="https://m.media-amazon.com/images/I/91bex9Fo9uL._AC_UF350,350_QL50_.jpg" width="150"></img>
-      </a>
-    </td>
-    <td align="center" valign="middle" width=192>
-      <a href="https://www.amazon.com/Learning-eBPF-Programming-Observability-Networking/dp/1098135121"/>
-        <img src="https://m.media-amazon.com/images/I/81dVucNYnEL._AC_UF1000,1000_QL80_.jpg" width="150"></img>
+      <a href="https://amzn.eu/d/07yiFsCW">
+          <img src="https://m.media-amazon.com/images/I/71QhkttWoQL._SY466_.jpg" width="150"></img>
       </a>
     </td>
   </tr>
